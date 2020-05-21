@@ -52,6 +52,13 @@ $ picocom --imap lfcrlf --omap crcrlf -b 57600 -c /dev/ttyUSB0
 
 ```
 
+
+
+10;SETPARM;RSSI;-60;
+10;SETPARM;RSSI;-120;
+
+
+
 # References 
 
 
