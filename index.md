@@ -3,10 +3,10 @@ layout: default
 ---
 
 
-Welcome to the RFSkipper website repository
-===========================================
+Welcome to the RFSkipper Project
+================================
 
-You'll find all the resources of the www.rfskipper.com website on this repository.
+
 
 License
 =======
