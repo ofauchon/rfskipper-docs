@@ -7,16 +7,19 @@ permalink: /faq/
 
   * Why another RF Gateway ? 
 
-There are may existing RF Gateways (RXFCom, RFLink..). These are great projects, but we want
-to provide an opensource, free, community driven alternative.
+There are other greats projects you may already know (RXFCom, RFLink, RFPlayer ...) 
+With RFSkipper, we want to provide an opensource, free, community-driven alternative.
 
-  * How can I contribute. 
 
-It depends on your skills, and the time you can spend on the project, but there are may ways
-to help: developping new core features or new plugins, testing, provide unsupported devices
-signal captures, documenting... And even help find un a logo for the project. 
+  * How can I contribute ?
 
-Feel free to contact us through a message on Github Issue pages. 
+It depends on your skills, and the time you can spend on the project.
+There are may ways to help: developping new features or plugins if you know C/C++ and 
+embedded developpement. But we also need help for testing, analyzing protocols, capturing
+new signals, write documentation... or finding a cool logo for the project. 
+
+
+Please leave a message on Github Issue pages to offer your help. 
 
 
   * Can you add support for xxxxx device. 

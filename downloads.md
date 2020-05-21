@@ -4,7 +4,6 @@ title: Downloads
 permalink: /downloads/
 ---
 
-
 ### Latest release:
 
 
